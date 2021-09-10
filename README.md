@@ -1,4 +1,4 @@
-# Deep-Learning-based-Speed-Controller
+# Deep-Learning-based-Speed-Controller-Model
 This a trained deep learning model, which uses reinforcement learning. A simple problem solved the DL way!!! 
 
 #beginnerToDL
